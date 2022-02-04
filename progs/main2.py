@@ -9,3 +9,6 @@ print(funA())
 
 from extra.good.best.sigma import funS
 print (funS())
+
+import extra.ugly.omega as omg
+print(omg.funO())

@@ -2,8 +2,11 @@
 
 """ example module: extra.good.omega """
 
-def FunO():
+import sys
+
+def funO():
 	return "Omega"
 
 if __name__ == "__main__":
-	print("I prefer to be a module")
+    print("I prefer to be a module")
+    sys.exit()
