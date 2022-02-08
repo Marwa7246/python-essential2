@@ -69,6 +69,8 @@ board2 ='''
 928671354
 254938671'''
 
+
+
 def check_pattern(sub_board):
     for num in range(1,10):
         if num not in sub_board:
